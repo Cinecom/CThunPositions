@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff00ff00C'Thun Positions|r |cff808080[Horyoshi]|r
+## Notes: Allows the raidleader to create a visualization of where the players need to stand on the C'thun fight.
+## Author: Horyoshi
+## Version: 1.1
+
+CThunPositions.lua
+minimap_icon.xml
+GroupChangeNotifier.xml
