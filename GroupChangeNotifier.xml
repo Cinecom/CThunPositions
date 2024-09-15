@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Frame name="GroupChangeNotifierFrame">
+        <Scripts>
+            <OnLoad>
+                this:RegisterEvent("RAID_ROSTER_UPDATE");
+                this:RegisterEvent("PLAYER_ENTERING_WORLD");
+            </OnLoad>
+            <OnEvent>
+                GroupChangeNotifier_OnEvent();
+            </OnEvent>
+        </Scripts>
+    </Frame>
+</Ui>
