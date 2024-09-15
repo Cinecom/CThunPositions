@@ -10,7 +10,7 @@ This AddOn shows a map of the final boss room in AQ40: C'Thun. Anyone with the a
 
 **HOW TO**
 
-Unzip the file and place the 'CThunPositions' folder in your /Interface/AddOns folder.
+Unzip the file and place the 'CThunPositions' folder in your /Interface/AddOns folder. **Remove '-master' from the folder name!**
 
 1. Click the mini-map icon to open/close the C'Thun map
 2. Drag the playernames to where you want them to stand
