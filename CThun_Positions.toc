@@ -1,8 +1,0 @@
-## Interface: 11200
-## Title: |cff00ff00Cthun Positions|r |cff808080[Horyoshi]|r
-## Notes: Allows you to place the members in a raid on a map of C'Thun to visualize everyone's position during phase 1
-## Author: Horyoshi
-## Version: 1.1
-
-CThun_Positions.lua
-minimap_icon.xml
