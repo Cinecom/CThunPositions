@@ -5,7 +5,7 @@ Created with ♥ by Horyoshi for World of Warcraft 1.12 - tested and working for
 
 **ABOUT**
 
-This AddOn shows a map of the final boss room in AQ40: C'Thun. Anyone with the addon installed will see the names of all raidmembers in the map. They can drag the names around to position each player, take a screenshot of it and share on Discord so that everyone knows where to stand during phase 1 of the fight.£
+This AddOn shows a map of the final boss room in AQ40: C'Thun. Anyone with the addon installed will see the names of all raidmembers in the map. They can drag the names around to position each player, take a screenshot of it and share on Discord so that everyone knows where to stand during phase 1 of the fight.
 
 
 **HOW TO**
